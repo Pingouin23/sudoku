@@ -1,5 +1,5 @@
 package sudoku;
-//test
+//test2
 /**
      * This program is executed in the following way:
      *    java SudokuSolver <input-file>
